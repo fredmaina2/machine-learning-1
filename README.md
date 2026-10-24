@@ -1,4 +1,4 @@
-# machine-learning-1
+use# machine-learning-1
 
 python-machine-learning-assignment
 
@@ -17,7 +17,7 @@ Installation & Running Instructions
 Clone the repository:
 
 git clone [https://github.com/fredmaina2/machine-learning-1](https://github.com/fredmaina2/machine-learning-1.git)
-cd python-machine-learning-assignment
+cd machine-learning-1
 Install dependencies
 
 pip install -r requirements.txt
