@@ -5,7 +5,7 @@ python-machine-learning-assignment
 NAME Fredrick maina
 
 Project Overview
-This repository contains Python scripts for supervised and unsupervised machine learning assignmentS.
+This repository contains Python scripts for supervised and unsupervised machine learning assignment.
 
 Supervised Learning Project (supervised_ml.py)
 Uses LinearRegression from sklearn.linear_model.
@@ -16,7 +16,7 @@ Analyzes customer spending and visit data, clustering them into $3$ groups (n_cl
 Installation & Running Instructions
 Clone the repository:
 
-git clone [https://github.com/efan-tech/python-machine-learning-assignment.git](https://github.com/efan-tech/python-machine-learning-assignment.git)
+git clone [https://github.com/fredmaina2/machine-learning-1](https://github.com/fredmaina2/machine-learning-1.git)
 cd python-machine-learning-assignment
 Install dependencies
 
